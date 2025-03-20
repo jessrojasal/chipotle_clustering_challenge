@@ -56,6 +56,7 @@ dbscan = DBSCAN(eps=0.9, min_samples=15, metric='euclidean')
 ![alt text](visualizations/map_best_living_location.png)
 
 **Maximum distance within the best cluster**: 932.26 km
+
 **Estimated driving time**: 10 hours 15 mins
 ![alt text](visualizations/map_driving_route.png)
 Acces the interactive map [here](visualizations/map_driving_route.html)
