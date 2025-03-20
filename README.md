@@ -50,6 +50,7 @@ dbscan = DBSCAN(eps=0.9, min_samples=15, metric='euclidean')
 
 ## Results
 **Best cluster**: Cluster number 4 with 601 Chipotle locations
+
 **Best cluster centroid**: Longitude -74.8941, Latitude 40.1820 (Levittown, Pennsylvania)
 
 ![alt text](visualizations/map_best_living_location.png)
